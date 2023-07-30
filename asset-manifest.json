@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Esignature-app/static/css/main.69f4c1c1.css",
-    "main.js": "/Esignature-app/static/js/main.c3bfdb69.js",
+    "main.js": "/Esignature-app/static/js/main.ff8cb197.js",
     "static/js/787.336a023e.chunk.js": "/Esignature-app/static/js/787.336a023e.chunk.js",
     "index.html": "/Esignature-app/index.html",
     "main.69f4c1c1.css.map": "/Esignature-app/static/css/main.69f4c1c1.css.map",
-    "main.c3bfdb69.js.map": "/Esignature-app/static/js/main.c3bfdb69.js.map",
+    "main.ff8cb197.js.map": "/Esignature-app/static/js/main.ff8cb197.js.map",
     "787.336a023e.chunk.js.map": "/Esignature-app/static/js/787.336a023e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69f4c1c1.css",
-    "static/js/main.c3bfdb69.js"
+    "static/js/main.ff8cb197.js"
   ]
 }
