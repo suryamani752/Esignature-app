@@ -3,7 +3,7 @@ import "./App.css";
 import Title from "./components/Title";
 
 function App() {
-  const [name, setName] = useState("suryamani");
+  const [name, setName] = useState("name");
   const [date, setDate] = useState("Dob");
 
   const handleNameChange = (e) => {
